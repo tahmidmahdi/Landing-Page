@@ -12,8 +12,8 @@ const Header = () => {
                 <button className="button">Explore </button>
             </div>
             <div className="col-md-8 image-main-div">
-                <img  src={sofa} alt="" />
-                <img className="image-div" src={lamp} alt="" />
+                <img className="image-fluid image-sofa" src={sofa} alt="" />
+                <img className="image-div image-fluid" src={lamp} alt="" />
             </div>
         </div>
     );

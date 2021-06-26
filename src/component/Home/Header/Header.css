@@ -28,3 +28,23 @@
     background-color: #313415;
     border: transparent;
 }
+@media only screen and (max-width: 600px) {
+    .header  {
+        margin: 0px !important
+    }
+    .image-main-div{
+        top: 0px
+    }
+    .image-div{
+        height: 200px;
+        width: 100px;
+    }
+    .image-sofa{
+        height: 200px !important;
+        width: 350px !important
+    }
+    .header h1, p{
+        text-align: center
+    }
+  }
+  

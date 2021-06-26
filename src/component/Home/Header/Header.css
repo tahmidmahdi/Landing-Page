@@ -1,0 +1,30 @@
+.header{
+    margin: 40px 200px !important;
+    /* border: 1px solid black */
+}
+.header h1, p{
+    color: white;
+}
+.image-div{
+    height: 400px;
+    width: 200px;
+   
+
+}
+.image-main-div{
+    top: 280px
+}
+.button{
+    border: 1px solid white;
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    color: white;
+    background-color:transparent;
+    font-weight: bold;
+    
+}
+.button:hover{
+    background-color: #313415;
+    border: transparent;
+}

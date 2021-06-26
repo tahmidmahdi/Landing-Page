@@ -1,0 +1,11 @@
+.details{
+   /* border: 1px solid black; */
+   margin: 300px 300px 200px 200px !important;
+   align-items: center;
+   text-align: center;
+    
+}
+.details-img{
+    width: 250px;
+    height: 350px;
+}

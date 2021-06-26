@@ -1,0 +1,27 @@
+.contract{
+    margin: 20px 300px;
+    text-align: center;
+}
+.form-input{
+    width: 600px;
+    height: 70px;
+    border-radius: 20px;
+}
+.form-description{
+    width: 600px;
+    height: 240px;
+    border-radius: 20px;
+
+}
+.button-form{
+    height: 60px;
+    width: 200px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    border: transparent;
+    background-color:#8b9e70;
+}
+.button-form:hover{
+    background-color: #313415;
+    color: white;
+}

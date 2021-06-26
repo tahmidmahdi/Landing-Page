@@ -1,0 +1,20 @@
+.containers{
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .containers img{
+    /* height: 80px; */
+    width: 300px;
+  }
+  .google{
+    width: 190px;
+    border-radius: 20px;
+    
+  }
+  .login-home{
+    text-decoration: none;
+    color: black;
+    
+  }
+  

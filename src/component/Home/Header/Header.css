@@ -60,4 +60,36 @@
         
     }
   }
+  @media only screen and (max-width: 400px) {
+    .header  {
+        margin: 0px !important
+    }
+    .image-main-div{
+        top: 0px
+    }
+    .image-div{
+        height: 150px;
+        width: 100px;
+    }
+    .image-sofa{
+        height: 150px !important;
+        width: 230px !important;
+        /* margin-left: 10px */
+    }
+    .header h1, p{
+        text-align: center
+    }
+    .button{
+        border: 1px solid white;
+        height: 30px;
+        width: 100px;
+        border-radius: 20px;
+        color: white;
+        background-color:transparent;
+        font-weight: bold;
+        text-align: center;
+        margin-left: 40px;
+        
+    }
+  }
   
